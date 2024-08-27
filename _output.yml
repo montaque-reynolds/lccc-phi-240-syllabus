@@ -1,0 +1,14 @@
+bookdown::word_document2:
+  reference_docx: "/home/redapemusic35/data_storage/template3.docx"
+  keep_tex: yes
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">Lewis and Clark Community College</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit: https://github.com/USERNAME/REPO/edit/BRANCH/%s
+    download: ["pdf", "docx"]
+bookdown::epub_book: default
