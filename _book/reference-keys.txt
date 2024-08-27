@@ -1,7 +1,9 @@
+instructor-information
+contact
+instructor
+communication
 attendance-policy
-publishing
-pages
-metadata-for-sharing
+device-policy
 academic-honesty
 learning-accommodations
 title-ix
