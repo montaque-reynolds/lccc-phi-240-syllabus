@@ -1,5 +1,5 @@
 bookdown::word_document2:
-  reference_docx: "/home/redapemusic35/data_storage/template3.docx"
+  reference_docx: "/home/redapemusic35/data_storage/syllabus-template.docx"
   keep_tex: yes
 bookdown::gitbook:
   css: style.css

@@ -1,5 +1,17 @@
 # Communication
 
+## What Students can expect from Online Instructors
+
+Students can expect their instructor to:
+
+1. respond to questions/problems within 48 hours.
+
+2. log into the course 5 out of 7 days a week; and
+
+3. provide continued grade statuses throughout the semester using either a calculated column in the grade book or a report sent through email.
+
+## Discord
+
 Discord and email are my preferred methods of communication. I am on Discord during workday hours, though I may be “away” during meetings and while I attend to other business. I also may have limited availability between 8-4:30pm. I will also
 monitor Discord during weekday evening hours and will respond to messages if I am able. Likewise, I dedicate time to email responses each workday, meaning that my response time is typically within 24 hours during the workweek. Please use your LC email account when emailing me. For both email and Discord, if you have not received a response from me after 48 hours (or by end of business on Monday if you messaged me over the weekend), please follow-up to ensure that your message did not get
 lost in the shuffle.
@@ -8,3 +20,6 @@ All messages regarding course updates, assignments, and changes to the class sch
 
 Please also ensure that all concerns or questions about your standing in the course are directed to me immediately. Inquires from parents, SLU staff members, and others will not be honored.
 
+## Virtual Meeting Policy:
+
+By participating in our live events, you are acknowledging awareness that, depending on your involvement, your name, voice, comments, and likeness may be recorded and shared with other L&C students and faculty. If you are uncomfortable participating with these acknowledgements, please contact your course instructor for alternate arrangements.
